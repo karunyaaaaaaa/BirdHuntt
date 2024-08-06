@@ -1,6 +1,7 @@
 # BirdHuntt
 Overview
-Bird Hunt is an interactive and entertaining game developed using Unity and C#. In this game, players aim to hunt flying birds using precise controls and aiming mechanics. The game is designed to be challenging and engaging, with dynamic bird movements and multiple levels of difficulty.
+Bird Hunt is an interactive and entertaining game developed using Unity and C#. In this game, players aim to hunt flying birds using precise controls and aiming mechanics.
+The game is designed to be challenging and engaging, with dynamic bird movements and multiple levels of difficulty.
 
 Features
 Dynamic Bird Movements: Birds move unpredictably, providing a challenging gameplay experience.
@@ -8,8 +9,6 @@ Multiple Levels: Increasing levels of difficulty to keep players engaged.
 Intuitive Controls: Easy-to-use controls for a smooth gaming experience.
 High-Quality Graphics: Developed using Unity for rich and immersive graphics.
 Robust Gameplay Mechanics: Written in C# for reliable and efficient performance.
-Screenshots
-Gameplay Screenshot Gameplay Screenshot
 
 Installation
 Clone the repository:
